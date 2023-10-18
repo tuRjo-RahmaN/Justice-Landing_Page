@@ -1,4 +1,4 @@
-Code Link - https://github.com/Programming-Hero-Web-Course4/b7-legal-house-TurjoXX
+*Code Link - https://github.com/tuRjo-RahmaN/Justice-Landing_Page
 
 
-Live Site - https://comfy-cactus-cc86bf.netlify.app/
+*Live Site - https://comfy-cactus-cc86bf.netlify.app/
